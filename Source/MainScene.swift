@@ -76,6 +76,7 @@ class MainScene: CCNode, CCPhysicsCollisionDelegate{
                 
             // for each removed obstacle, add a new one
             spawnNewObstacle()
+            // test
             }
         }
         
